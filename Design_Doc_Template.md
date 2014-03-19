@@ -12,7 +12,9 @@ A one sentence description of the game.  Adding the hook into the description is
 Enumerated list of experiences of goals that will drive design decisions.
 
 *example:*
+
 1. The game should let **action** be the main goal of every decision.  The only low points should be between players waiting for action to occur from event.
+
 2. The game should be simple to understand and allow players to generate their own strategies instead of enforcing specific gameplay through rules.
 
 ## Details
@@ -33,12 +35,19 @@ The environment will also contain boost plates on the floor that can launch a pl
 Explain in steps how the game will play out from start to finish.  This should be an general outline of play and not a detailed explanation of each aspect of the game.
 
 *example:*
+
 1. Players will have 30 seconds to hit a button to join the game before the game begins.
+
 2. Players will be given a 3 second count before the game starts.  Players are unable to move from their pre designated spawn points until the game starts.
+
 3. When the game starts, players will attempt to kill each other through attacks.
+
 4. When there is one person left, that person is declared winner of the round.
+
 5. All players will respawn and the round will start over with a new 3 second count.
+
 6. When one player has won 3 games, that person is declared winner of the game.
+
 7. A new game will begin through the same steps listed above.
 
 ## Controls

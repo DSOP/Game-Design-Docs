@@ -1,7 +1,7 @@
 # Running With Scissors Arcade
 
 ## Elevator Pitch
-> **Running With Scissors Arcade ** is a 4 Player infinite runner where each player plays a kid running down the sidewalk with scissors and must dodge hazards that spawn ahead of them faster and more frequently over time.
+> **Running With Scissors Arcade** is a 4 Player infinite runner where each player plays a kid running down the sidewalk with scissors and must dodge hazards that spawn ahead of them faster and more frequently over time.
 
 ## Design Goals
 1. The game will be light hearted and goofy and urge players to do their best regardless of others.
